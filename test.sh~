@@ -1,0 +1,11 @@
+PI_EXTRA= \
+  VHDL_GPI_INTERFACE=fli \
+  COCOTB__QUESTA_MODE=qisqrun \
+  COCOTB_TEST_MODULES=counter_tests COCOTB_TESTCASE=  COCOTB_TOPLEVEL="work.counter" TOPLEVEL_LANG=vhdl       \
+       /games/fpga/quartus/questa_fse/bin/qrun -c -64  -outdir sim_build \
+   \
+  -makelib work  /home/per/Desktop/projects/cocotb/counter.vhdl -timescale 1ns/1ps -mfcu   -end \
+  -access=rw+/.  -onfinish exit -t 1ps -foreign "cocotb_init /home/per/.platformio/penv/lib/python3.12/site-packages/cocotb/libs/libcocotbfli_modelsim.so"   -sv \
+  -top "work.counter" 2>&1 | tee sim_build/sim.log	mkdir -p sim_build
+tee: sim_build: Is a directory
+GPI_EXTRA= VHDL_GPI_INTERFACE=fli COCOTB__QUESTA_MODE=qisqrun COCOTB_TEST_MODULES=counter_tests COCOTB_TESTCASE= COCOTB_TOPLEVEL=work.counter TOPLEVEL_LANG=vhdl /games/fpga/quartus/questa_fse/bin/qrun -c -64 -outdir sim_build -makelib work /home/per/Desktop/projects/cocotb/counter.vhdl -timescale 1ns/1ps -mfcu -end -access=rw+/. -onfinish exit -t 1ps -foreign cocotb_init /home/per/.platformio/penv/lib/python3.12/site-packages/cocotb/libs/libcocotbfli_modelsim.so -sv -top work.counter

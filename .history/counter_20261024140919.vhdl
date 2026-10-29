@@ -1,0 +1,8 @@
+LIBRARY ieee;
+USE ieee.std_logic_1164.ALL;
+
+entity counter is 
+    port(
+        clk : in std_logic;
+        rst : in std_logic;
+            

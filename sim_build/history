@@ -1,0 +1,177 @@
+- Entry: 1
+  Time: Sat Oct 24 14:19:10 2026
+  Command: /games/fpga/quartus/questa_fse/bin/../linux_x86_64/qrun -c -64 -outdir sim_build -makelib work /home/per/Desktop/projects/cocotb/counter.vhdl -timescale 1ns/1ps -mfcu -end -access=rw+/. -onfinish exit -t 1ps -foreign 'cocotb_init /home/per/.platformio/penv/lib/python3.12/site-packages/cocotb/libs/libcocotbfli_modelsim.so' -sv -top work.counter 
+- Entry: 2
+  Time: Sat Oct 24 14:19:17 2026
+  Command: /games/fpga/quartus/questa_fse/bin/../linux_x86_64/qrun -c -64 -outdir sim_build -makelib work /home/per/Desktop/projects/cocotb/counter.vhdl -timescale 1ns/1ps -mfcu -end -access=rw+/. -onfinish exit -t 1ps -foreign 'cocotb_init /home/per/.platformio/penv/lib/python3.12/site-packages/cocotb/libs/libcocotbfli_modelsim.so' -sv -top work.counter 
+- Entry: 3
+  Time: Sat Oct 24 14:19:45 2026
+  Command: /games/fpga/quartus/questa_fse/bin/../linux_x86_64/qrun -c -64 -outdir sim_build -makelib work /home/per/Desktop/projects/cocotb/counter.vhdl -timescale 1ns/1ps -mfcu -end -access=rw+/. -onfinish exit -t 1ps -foreign 'cocotb_init /home/per/.platformio/penv/lib/python3.12/site-packages/cocotb/libs/libcocotbfli_modelsim.so' -sv -top work.counter 
+- Entry: 4
+  Time: Sat Oct 24 14:20:01 2026
+  Command: /games/fpga/quartus/questa_fse/bin/../linux_x86_64/qrun -c -64 -outdir sim_build -makelib work /home/per/Desktop/projects/cocotb/counter.vhdl -timescale 1ns/1ps -mfcu -end -access=rw+/. -onfinish exit -t 1ps -foreign 'cocotb_init /home/per/.platformio/penv/lib/python3.12/site-packages/cocotb/libs/libcocotbfli_modelsim.so' -sv -top work.counter 
+- Entry: 5
+  Time: Sat Oct 24 14:20:30 2026
+  Command: /games/fpga/quartus/questa_fse/bin/../linux_x86_64/qrun -c -64 -outdir sim_build -makelib work /home/per/Desktop/projects/cocotb/counter.vhdl -timescale 1ns/1ps -mfcu -end -access=rw+/. -onfinish exit -t 1ps -foreign 'cocotb_init /home/per/.platformio/penv/lib/python3.12/site-packages/cocotb/libs/libcocotbfli_modelsim.so' -sv -top work.counter 
+- Entry: 6
+  Time: Sat Oct 24 14:20:47 2026
+  Command: /games/fpga/quartus/questa_fse/bin/../linux_x86_64/qrun -c -64 -outdir sim_build -makelib work /home/per/Desktop/projects/cocotb/counter.vhdl -timescale 1ns/1ps -mfcu -end -access=rw+/. -onfinish exit -t 1ps -foreign 'cocotb_init /home/per/.platformio/penv/lib/python3.12/site-packages/cocotb/libs/libcocotbfli_modelsim.so' -sv -top work.counter 
+- Entry: 7
+  Time: Sat Oct 24 14:21:15 2026
+  Command: /games/fpga/quartus/questa_fse/bin/../linux_x86_64/qrun -c -64 -outdir sim_build -makelib work /home/per/Desktop/projects/cocotb/counter.vhdl -timescale 1ns/1ps -mfcu -end -access=rw+/. -onfinish exit -t 1ps -foreign 'cocotb_init /home/per/.platformio/penv/lib/python3.12/site-packages/cocotb/libs/libcocotbfli_modelsim.so' -sv -top work.counter 
+- Entry: 8
+  Time: Sat Oct 24 14:21:45 2026
+  Command: /games/fpga/quartus/questa_fse/bin/../linux_x86_64/qrun -c -64 -outdir sim_build -makelib work /home/per/Desktop/projects/cocotb/counter.vhdl -timescale 1ns/1ps -mfcu -end -access=rw+/. -onfinish exit -t 1ps -foreign 'cocotb_init /home/per/.platformio/penv/lib/python3.12/site-packages/cocotb/libs/libcocotbfli_modelsim.so' -sv -top work.counter 
+- Entry: 9
+  Time: Sat Oct 24 14:21:57 2026
+  Command: /games/fpga/quartus/questa_fse/bin/../linux_x86_64/qrun -c -64 -outdir sim_build -makelib work /home/per/Desktop/projects/cocotb/counter.vhdl -timescale 1ns/1ps -mfcu -end -access=rw+/. -onfinish exit -t 1ps -foreign 'cocotb_init /home/per/.platformio/penv/lib/python3.12/site-packages/cocotb/libs/libcocotbfli_modelsim.so' -sv -top work.counter 
+- Entry: 10
+  Time: Sat Oct 24 14:22:22 2026
+  Command: /games/fpga/quartus/questa_fse/bin/../linux_x86_64/qrun -c -64 -outdir sim_build -makelib work /home/per/Desktop/projects/cocotb/counter.vhdl -timescale 1ns/1ps -mfcu -end -access=rw+/. -onfinish exit -t 1ps -foreign 'cocotb_init /home/per/.platformio/penv/lib/python3.12/site-packages/cocotb/libs/libcocotbfli_modelsim.so' -sv -top work.counter 
+- Entry: 11
+  Time: Sat Oct 24 14:22:59 2026
+  Command: /games/fpga/quartus/questa_fse/bin/../linux_x86_64/qrun -c -64 -outdir sim_build -makelib work /home/per/Desktop/projects/cocotb/counter.vhdl -timescale 1ns/1ps -mfcu -end -access=rw+/. -onfinish exit -t 1ps -foreign 'cocotb_init /home/per/.platformio/penv/lib/python3.12/site-packages/cocotb/libs/libcocotbfli_modelsim.so' -sv -top work.counter 
+- Entry: 12
+  Time: Sat Oct 24 14:23:11 2026
+  Command: /games/fpga/quartus/questa_fse/bin/../linux_x86_64/qrun -c -64 -outdir sim_build -makelib work /home/per/Desktop/projects/cocotb/counter.vhdl -timescale 1ns/1ps -mfcu -end -access=rw+/. -onfinish exit -t 1ps -foreign 'cocotb_init /home/per/.platformio/penv/lib/python3.12/site-packages/cocotb/libs/libcocotbfli_modelsim.so' -sv -top work.counter 
+- Entry: 13
+  Time: Sat Oct 24 14:23:55 2026
+  Command: /games/fpga/quartus/questa_fse/bin/../linux_x86_64/qrun -c -64 -outdir sim_build -makelib work /home/per/Desktop/projects/cocotb/counter.vhdl -timescale 1ns/1ps -mfcu -end -access=rw+/. -onfinish exit -t 1ps -foreign 'cocotb_init /home/per/.platformio/penv/lib/python3.12/site-packages/cocotb/libs/libcocotbfli_modelsim.so' -sv -top work.counter 
+- Entry: 14
+  Time: Sat Oct 24 14:24:14 2026
+  Command: /games/fpga/quartus/questa_fse/bin/../linux_x86_64/qrun -c -64 -outdir sim_build -makelib work /home/per/Desktop/projects/cocotb/counter.vhdl -timescale 1ns/1ps -mfcu -end -access=rw+/. -onfinish exit -t 1ps -foreign 'cocotb_init /home/per/.platformio/penv/lib/python3.12/site-packages/cocotb/libs/libcocotbfli_modelsim.so' -sv -top work.counter 
+- Entry: 15
+  Time: Sat Oct 24 14:24:43 2026
+  Command: /games/fpga/quartus/questa_fse/bin/../linux_x86_64/qrun -c -64 -outdir sim_build -makelib work /home/per/Desktop/projects/cocotb/counter.vhdl -timescale 1ns/1ps -mfcu -end -access=rw+/. -onfinish exit -t 1ps -foreign 'cocotb_init /home/per/.platformio/penv/lib/python3.12/site-packages/cocotb/libs/libcocotbfli_modelsim.so' -sv -top work.counter 
+- Entry: 16
+  Time: Sat Oct 24 14:25:59 2026
+  Command: /games/fpga/quartus/questa_fse/bin/../linux_x86_64/qrun -c -64 -outdir sim_build -makelib work /home/per/Desktop/projects/cocotb/counter.vhdl -timescale 1ns/1ps -mfcu -end -access=rw+/. -onfinish exit -t 1ps -foreign 'cocotb_init /home/per/.platformio/penv/lib/python3.12/site-packages/cocotb/libs/libcocotbfli_modelsim.so' -sv -top work.counter 
+- Entry: 17
+  Time: Sat Oct 24 14:26:23 2026
+  Command: /games/fpga/quartus/questa_fse/bin/../linux_x86_64/qrun -c -64 -outdir sim_build -makelib work /home/per/Desktop/projects/cocotb/counter.vhdl -timescale 1ns/1ps -mfcu -end -access=rw+/. -onfinish exit -t 1ps -foreign 'cocotb_init /home/per/.platformio/penv/lib/python3.12/site-packages/cocotb/libs/libcocotbfli_modelsim.so' -sv -top work.counter 
+- Entry: 18
+  Time: Sat Oct 24 14:27:14 2026
+  Command: /games/fpga/quartus/questa_fse/bin/../linux_x86_64/qrun -c -64 -outdir sim_build -makelib work /home/per/Desktop/projects/cocotb/counter.vhdl -timescale 1ns/1ps -mfcu -end -access=rw+/. -onfinish exit -t 1ps -foreign 'cocotb_init /home/per/.platformio/penv/lib/python3.12/site-packages/cocotb/libs/libcocotbfli_modelsim.so' -sv -top work.counter 
+- Entry: 19
+  Time: Sat Oct 24 14:28:03 2026
+  Command: /games/fpga/quartus/questa_fse/bin/../linux_x86_64/qrun -c -64 -outdir sim_build -makelib work /home/per/Desktop/projects/cocotb/counter.vhdl -timescale 1ns/1ps -mfcu -end -access=rw+/. -onfinish exit -t 1ps -foreign 'cocotb_init /home/per/.platformio/penv/lib/python3.12/site-packages/cocotb/libs/libcocotbfli_modelsim.so' -sv -top work.counter 
+- Entry: 20
+  Time: Sat Oct 24 16:54:57 2026
+  Command: /games/fpga/quartus/questa_fse/bin/../linux_x86_64/qrun -c -64 -outdir sim_build -makelib work /home/per/Desktop/projects/cocotb/counter.vhdl -timescale 1ns/1ps -mfcu -end -access=rw+/. -onfinish exit -t 1ps -foreign 'cocotb_init /home/per/.platformio/penv/lib/python3.12/site-packages/cocotb/libs/libcocotbfli_modelsim.so' -sv -top work.counter 
+- Entry: 21
+  Time: Sat Oct 24 16:56:12 2026
+  Command: /games/fpga/quartus/questa_fse/bin/../linux_x86_64/qrun -c -64 -outdir sim_build -makelib work /home/per/Desktop/projects/cocotb/counter.vhdl -timescale 1ns/1ps -mfcu -end -access=rw+/. -onfinish exit -t 1ps -foreign 'cocotb_init /home/per/.platformio/penv/lib/python3.12/site-packages/cocotb/libs/libcocotbfli_modelsim.so' -sv -top work.counter 
+- Entry: 22
+  Time: Sat Oct 24 22:15:34 2026
+  Command: /games/fpga/quartus/questa_fse/bin/../linux_x86_64/qrun -c -64 -outdir sim_build -makelib work /home/per/Desktop/projects/cocotb/counter.vhdl -timescale 1ns/1ps -mfcu -end -access=rw+/. -onfinish exit -t 1ps -foreign 'cocotb_init /home/per/.platformio/penv/lib/python3.12/site-packages/cocotb/libs/libcocotbfli_modelsim.so' -sv -top work.counter 
+- Entry: 23
+  Time: Sat Oct 24 22:15:56 2026
+  Command: /games/fpga/quartus/questa_fse/bin/../linux_x86_64/qrun -c -64 -outdir sim_build -makelib work /home/per/Desktop/projects/cocotb/counter.vhdl -timescale 1ns/1ps -mfcu -end -access=rw+/. -onfinish exit -t 1ps -foreign 'cocotb_init /home/per/.platformio/penv/lib/python3.12/site-packages/cocotb/libs/libcocotbfli_modelsim.so' -sv -top work.counter 
+- Entry: 24
+  Time: Sat Oct 24 22:16:53 2026
+  Command: /games/fpga/quartus/questa_fse/bin/../linux_x86_64/qrun -c -64 -outdir sim_build -makelib work /home/per/Desktop/projects/cocotb/counter.vhdl -timescale 1ns/1ps -mfcu -end -access=rw+/. -onfinish exit -t 1ps -foreign 'cocotb_init /home/per/.platformio/penv/lib/python3.12/site-packages/cocotb/libs/libcocotbfli_modelsim.so' -sv -top work.counter 
+- Entry: 25
+  Time: Sat Oct 24 22:17:01 2026
+  Command: /games/fpga/quartus/questa_fse/bin/../linux_x86_64/qrun -c -64 -outdir sim_build -makelib work /home/per/Desktop/projects/cocotb/counter.vhdl -timescale 1ns/1ps -mfcu -end -access=rw+/. -onfinish exit -t 1ps -foreign 'cocotb_init /home/per/.platformio/penv/lib/python3.12/site-packages/cocotb/libs/libcocotbfli_modelsim.so' -sv -top work.counter 
+- Entry: 26
+  Time: Sat Oct 24 22:17:15 2026
+  Command: /games/fpga/quartus/questa_fse/bin/../linux_x86_64/qrun -c -64 -outdir sim_build -makelib work /home/per/Desktop/projects/cocotb/counter.vhdl -timescale 1ns/1ps -mfcu -end -access=rw+/. -onfinish exit -t 1ps -foreign 'cocotb_init /home/per/.platformio/penv/lib/python3.12/site-packages/cocotb/libs/libcocotbfli_modelsim.so' -sv -top work.counter 
+- Entry: 27
+  Time: Sat Oct 24 22:17:40 2026
+  Command: /games/fpga/quartus/questa_fse/bin/../linux_x86_64/qrun -c -64 -outdir sim_build -makelib work /home/per/Desktop/projects/cocotb/counter.vhdl -timescale 1ns/1ps -mfcu -end -access=rw+/. -onfinish exit -t 1ps -foreign 'cocotb_init /home/per/.platformio/penv/lib/python3.12/site-packages/cocotb/libs/libcocotbfli_modelsim.so' -sv -top work.counter 
+- Entry: 28
+  Time: Sat Oct 24 22:21:16 2026
+  Command: /games/fpga/quartus/questa_fse/bin/../linux_x86_64/qrun -c -64 -outdir sim_build -makelib work /home/per/Desktop/projects/cocotb/counter.vhdl -timescale 1ns/1ps -mfcu -end -access=rw+/. -onfinish exit -t 1ps -foreign 'cocotb_init /home/per/.platformio/penv/lib/python3.12/site-packages/cocotb/libs/libcocotbfli_modelsim.so' -sv -top work.counter 
+- Entry: 29
+  Time: Sat Oct 24 22:21:31 2026
+  Command: /games/fpga/quartus/questa_fse/bin/../linux_x86_64/qrun -c -64 -outdir sim_build -makelib work /home/per/Desktop/projects/cocotb/counter.vhdl -timescale 1ns/1ps -mfcu -end -access=rw+/. -onfinish exit -t 1ps -foreign 'cocotb_init /home/per/.platformio/penv/lib/python3.12/site-packages/cocotb/libs/libcocotbfli_modelsim.so' -sv -top work.counter 
+- Entry: 30
+  Time: Sat Oct 24 22:21:39 2026
+  Command: /games/fpga/quartus/questa_fse/bin/../linux_x86_64/qrun -c -64 -outdir sim_build -makelib work /home/per/Desktop/projects/cocotb/counter.vhdl -timescale 1ns/1ps -mfcu -end -access=rw+/. -onfinish exit -t 1ps -foreign 'cocotb_init /home/per/.platformio/penv/lib/python3.12/site-packages/cocotb/libs/libcocotbfli_modelsim.so' -sv -top work.counter 
+- Entry: 31
+  Time: Sat Oct 24 22:21:47 2026
+  Command: /games/fpga/quartus/questa_fse/bin/../linux_x86_64/qrun -c -64 -outdir sim_build -makelib work /home/per/Desktop/projects/cocotb/counter.vhdl -timescale 1ns/1ps -mfcu -end -access=rw+/. -onfinish exit -t 1ps -foreign 'cocotb_init /home/per/.platformio/penv/lib/python3.12/site-packages/cocotb/libs/libcocotbfli_modelsim.so' -sv -top work.counter 
+- Entry: 32
+  Time: Sat Oct 24 22:22:06 2026
+  Command: /games/fpga/quartus/questa_fse/bin/../linux_x86_64/qrun -c -64 -outdir sim_build -makelib work /home/per/Desktop/projects/cocotb/counter.vhdl -timescale 1ns/1ps -mfcu -end -access=rw+/. -onfinish exit -t 1ps -foreign 'cocotb_init /home/per/.platformio/penv/lib/python3.12/site-packages/cocotb/libs/libcocotbfli_modelsim.so' -sv -top work.counter 
+- Entry: 33
+  Time: Sat Oct 24 22:22:15 2026
+  Command: /games/fpga/quartus/questa_fse/bin/../linux_x86_64/qrun -c -64 -outdir sim_build -makelib work /home/per/Desktop/projects/cocotb/counter.vhdl -timescale 1ns/1ps -mfcu -end -access=rw+/. -onfinish exit -t 1ps -foreign 'cocotb_init /home/per/.platformio/penv/lib/python3.12/site-packages/cocotb/libs/libcocotbfli_modelsim.so' -sv -top work.counter 
+- Entry: 34
+  Time: Sat Oct 24 22:22:28 2026
+  Command: /games/fpga/quartus/questa_fse/bin/../linux_x86_64/qrun -c -64 -outdir sim_build -makelib work /home/per/Desktop/projects/cocotb/counter.vhdl -timescale 1ns/1ps -mfcu -end -access=rw+/. -onfinish exit -t 1ps -foreign 'cocotb_init /home/per/.platformio/penv/lib/python3.12/site-packages/cocotb/libs/libcocotbfli_modelsim.so' -sv -top work.counter 
+- Entry: 35
+  Time: Sat Oct 24 22:24:48 2026
+  Command: /games/fpga/quartus/questa_fse/bin/../linux_x86_64/qrun -c -64 -outdir sim_build -makelib work /home/per/Desktop/projects/cocotb/counter.vhdl -timescale 1ns/1ps -mfcu -end -access=rw+/. -onfinish exit -t 1ps -foreign 'cocotb_init /home/per/.platformio/penv/lib/python3.12/site-packages/cocotb/libs/libcocotbfli_modelsim.so' -sv -top work.counter 
+- Entry: 36
+  Time: Sat Oct 24 22:26:04 2026
+  Command: /games/fpga/quartus/questa_fse/bin/../linux_x86_64/qrun -c -64 -outdir sim_build -makelib work /home/per/Desktop/projects/cocotb/counter.vhdl -timescale 1ns/1ps -mfcu -end -access=rw+/. -onfinish exit -t 1ps -foreign 'cocotb_init /home/per/.platformio/penv/lib/python3.12/site-packages/cocotb/libs/libcocotbfli_modelsim.so' -sv -top work.counter 
+- Entry: 37
+  Time: Sat Oct 24 22:26:53 2026
+  Command: /games/fpga/quartus/questa_fse/bin/../linux_x86_64/qrun -c -64 -outdir sim_build 
+- Entry: 38
+  Time: Sat Oct 24 22:27:02 2026
+  Command: /games/fpga/quartus/questa_fse/bin/../linux_x86_64/qrun -c -64 -outdir sim_build 
+- Entry: 39
+  Time: Sat Oct 24 22:27:12 2026
+  Command: /games/fpga/quartus/questa_fse/bin/../linux_x86_64/qrun -c -64 -outdir sim_build -makelib work /home/per/Desktop/projects/cocotb/counter.vhdl -timescale 1ns/1ps -mfcu -end 
+- Entry: 40
+  Time: Sat Oct 24 22:27:25 2026
+  Command: /games/fpga/quartus/questa_fse/bin/../linux_x86_64/qrun -c -64 -outdir sim_build -makelib work /home/per/Desktop/projects/cocotb/counter.vhdl -timescale 1ns/1ps -mfcu -end -access=rw+/. -onfinish exit -t 1ps -foreign 'cocotb_init /home/per/.platformio/penv/lib/python3.12/site-packages/cocotb/libs/libcocotbfli_modelsim.so' -sv -top work.counter 
+- Entry: 41
+  Time: Sat Oct 24 22:27:56 2026
+  Command: /games/fpga/quartus/questa_fse/bin/../linux_x86_64/qrun -c -64 -outdir sim_build -makelib work 
+- Entry: 42
+  Time: Sat Oct 24 22:28:06 2026
+  Command: /games/fpga/quartus/questa_fse/bin/../linux_x86_64/qrun -c -64 -outdir sim_build 
+- Entry: 43
+  Time: Sat Oct 24 22:28:19 2026
+  Command: /games/fpga/quartus/questa_fse/bin/../linux_x86_64/qrun -c -64 -outdir sim_build 
+- Entry: 44
+  Time: Sat Oct 24 22:28:39 2026
+  Command: /games/fpga/quartus/questa_fse/bin/../linux_x86_64/qrun -c -64 -outdir sim_build 
+- Entry: 45
+  Time: Sat Oct 24 22:28:54 2026
+  Command: /games/fpga/quartus/questa_fse/bin/../linux_x86_64/qrun -c -64 -outdir sim_build 
+- Entry: 46
+  Time: Sat Oct 24 22:29:06 2026
+  Command: /games/fpga/quartus/questa_fse/bin/../linux_x86_64/qrun -c -64 -outdir sim_build -makelib work 
+- Entry: 47
+  Time: Sat Oct 24 22:29:18 2026
+  Command: /games/fpga/quartus/questa_fse/bin/../linux_x86_64/qrun -c -64 -outdir sim_build -makelib work /home/per/Desktop/projects/cocotb/counter.vhdl -timescale 1ns/1ps -mfcu -end 
+- Entry: 48
+  Time: Sat Oct 24 22:29:58 2026
+  Command: /games/fpga/quartus/questa_fse/bin/../linux_x86_64/qrun -c -64 -outdir sim_build -makelib work /home/per/Desktop/projects/cocotb/counter.vhdl -timescale 1ns/1ps -mfcu -end -access=rw+/. -onfinish exit -t 1ps -foreign 'cocotb_init /home/per/.platformio/penv/lib/python3.12/site-packages/cocotb/libs/libcocotbfli_modelsim.so' -sv -top work.counter 
+- Entry: 49
+  Time: Sat Oct 24 22:32:07 2026
+  Command: /games/fpga/quartus/questa_fse/bin/../linux_x86_64/qrun -c -64 -outdir sim_build -makelib work /home/per/Desktop/projects/cocotb/counter.vhdl -timescale 1ns/1ps -mfcu -end -access=rw+/. -onfinish exit -t 1ps -foreign 'cocotb_init /home/per/.platformio/penv/lib/python3.12/site-packages/cocotb/libs/libcocotbfli_modelsim.so' -sv -top work.counter 
+- Entry: 50
+  Time: Sat Oct 24 22:32:55 2026
+  Command: /games/fpga/quartus/questa_fse/bin/../linux_x86_64/qrun -c -64 -outdir sim_build -makelib work /home/per/Desktop/projects/cocotb/counter.vhdl -timescale 1ns/1ps -mfcu -end -access=rw+/. -onfinish exit -t 1ps -foreign 'cocotb_init /home/per/.platformio/penv/lib/python3.12/site-packages/cocotb/libs/libcocotbfli_modelsim.so' -sv -top work.counter 
+- Entry: 51
+  Time: Sat Oct 24 22:33:55 2026
+  Command: /games/fpga/quartus/questa_fse/bin/../linux_x86_64/qrun -c -64 -outdir sim_build -makelib work /home/per/Desktop/projects/cocotb/counter.vhdl -timescale 1ns/1ps -mfcu -end -access=rw+/. -onfinish exit -t 1ps -foreign 'cocotb_init /home/per/.platformio/penv/lib/python3.12/site-packages/cocotb/libs/libcocotbfli_modelsim.so' -sv -top work.counter 
+- Entry: 52
+  Time: Sat Oct 24 22:34:57 2026
+  Command: /games/fpga/quartus/questa_fse/bin/../linux_x86_64/qrun -c -64 -outdir sim_build -makelib work /home/per/Desktop/projects/cocotb/counter.vhdl -timescale 1ns/1ps -mfcu -end -access=rw+/. -onfinish exit -t 1ps -foreign 'cocotb_init /home/per/.platformio/penv/lib/python3.12/site-packages/cocotb/libs/libcocotbfli_modelsim.so' -sv 
+- Entry: 53
+  Time: Sat Oct 24 22:35:25 2026
+  Command: /games/fpga/quartus/questa_fse/bin/../linux_x86_64/qrun -c -64 -outdir sim_build -makelib work /home/per/Desktop/projects/cocotb/counter.vhdl -timescale 1ns/1ps -mfcu -end -access=rw+/. -onfinish exit -t 1ps -foreign 'cocotb_init /home/per/.platformio/penv/lib/python3.12/site-packages/cocotb/libs/libcocotbfli_modelsim.so' -sv -top work.counter 
+- Entry: 54
+  Time: Sat Oct 24 22:36:20 2026
+  Command: /games/fpga/quartus/questa_fse/bin/../linux_x86_64/qrun -c -64 -outdir sim_build -makelib work /home/per/Desktop/projects/cocotb/counter.vhdl -timescale 1ns/1ps -mfcu -end -access=rw+/. -onfinish exit -t 1ps -foreign 'cocotb_init /home/per/.platformio/penv/lib/python3.12/site-packages/cocotb/libs/libcocotbfli_modelsim.so' -sv -top work.counter 
+- Entry: 55
+  Time: Sat Oct 24 22:40:10 2026
+  Command: /games/fpga/quartus/questa_fse/bin/../linux_x86_64/qrun -c -64 -outdir sim_build -makelib work /home/per/Desktop/projects/cocotb/counter.vhdl -timescale 1ns/1ps -mfcu -end -access=rw+/. -onfinish exit -t 1ps -foreign 'cocotb_init /home/per/.platformio/penv/lib/python3.12/site-packages/cocotb/libs/libcocotbfli_modelsim.so' -sv -top work.counter 
+- Entry: 56
+  Time: Sat Oct 24 22:40:36 2026
+  Command: /games/fpga/quartus/questa_fse/bin/../linux_x86_64/qrun -c -64 -outdir sim_build -makelib work /home/per/Desktop/projects/cocotb/counter.vhdl -timescale 1ns/1ps -mfcu -end -access=rw+/. -onfinish exit -t 1ps -foreign 'cocotb_init /home/per/.platformio/penv/lib/python3.12/site-packages/cocotb/libs/libcocotbfli_modelsim.so' -sv -top work.counter 
+- Entry: 57
+  Time: Sat Oct 24 22:40:46 2026
+  Command: /games/fpga/quartus/questa_fse/bin/../linux_x86_64/qrun -c -64 -outdir sim_build -makelib work /home/per/Desktop/projects/cocotb/counter.vhdl -timescale 1ns/1ps -mfcu -end -access=rw+/. -onfinish exit -t 1ps -foreign 'cocotb_init /home/per/.platformio/penv/lib/python3.12/site-packages/cocotb/libs/libcocotbfli_modelsim.so' -sv -top work.counter 
+- Entry: 58
+  Time: Sat Oct 24 22:41:00 2026
+  Command: /games/fpga/quartus/questa_fse/bin/../linux_x86_64/qrun -c -64 -outdir sim_build -makelib work /home/per/Desktop/projects/cocotb/counter.vhdl -timescale 1ns/1ps -mfcu -end -access=rw+/. -onfinish exit -t 1ps -foreign 'cocotb_init /home/per/.platformio/penv/lib/python3.12/site-packages/cocotb/libs/libcocotbfli_modelsim.so' -sv -top work.counter 
+- Entry: 59
+  Time: Sat Oct 24 22:41:54 2026
+  Command: /games/fpga/quartus/questa_fse/bin/../linux_x86_64/qrun -c -64 -outdir sim_build -makelib work /home/per/Desktop/projects/cocotb/counter.vhdl -timescale 1ns/1ps -mfcu -end -access=rw+/. -onfinish exit -t 1ps -foreign 'cocotb_init /home/per/.platformio/penv/lib/python3.12/site-packages/cocotb/libs/libcocotbfli_modelsim.so' -sv -top work.counter 

@@ -1,0 +1,107 @@
+Questa Altera Starter FPGA Edition-64 qrun 2025.2 Utility 2025.05 May 31 2025
+Start time: 22:32:55 on Oct 24,2026
+qrun -c -64 -outdir sim_build -makelib work /home/per/Desktop/projects/cocotb/counter.vhdl -timescale 1ns/1ps -mfcu -end -access=rw+/. -onfinish exit -t 1ps -foreign "cocotb_init /home/per/.platformio/penv/lib/python3.12/site-packages/cocotb/libs/libcocotbfli_modelsim.so" -sv -top work.counter 
+** Note: (qrun-220) '/games/fpga/quartus/questa_fse/linux_x86_64/../modelsim.ini' is used as the ini file.
+-- Skipping 'vcom -64 /home/per/Desktop/projects/cocotb/counter.vhdl -wor...'
+-- Skipping vcom -refresh_marked -work sim_build/work
+-- Skipping vopt
+Reading pref.tcl
+
+# 2025.2
+
+# ** Note: (vsim-220) '/games/fpga/quartus/questa_fse/linux_x86_64/../modelsim.ini' is used as the ini file.
+# vsim -c -64 -onfinish exit -t 1ps -foreign "cocotb_init /home/per/.platformio/penv/lib/python3.12/site-packages/cocotb/libs/libcocotbfli_modelsim.so" -lib sim_build/work -do "run -all; quit -f" -statslog sim_build/stats_log qrun_opt -appendlog -l qrun.log 
+# Start time: 22:32:55 on Oct 24,2026
+# //  Questa Altera Starter FPGA Edition-64
+# //  Version 2025.2 linux_x86_64 May 31 2025
+# //
+# // Unpublished work. Copyright 2025 Siemens
+# //
+# // This material contains trade secrets or otherwise confidential information
+# // owned by Siemens Industry Software Inc. or its affiliates (collectively,
+# // "SISW"), or its licensors. Access to and use of this information is strictly
+# // limited as set forth in the Customer's applicable agreements with SISW.
+# //
+# // This material may not be copied, distributed, or otherwise disclosed outside
+# // of the Customer's facilities without the express written permission of SISW,
+# // and may not be used in any way not expressly authorized by SISW.
+# //
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.counter(rtl)#1
+# Loading /home/per/.platformio/penv/lib/python3.12/site-packages/cocotb/libs/libcocotbfli_modelsim.so
+#      -.--ns INFO     gpi                                ../gpi/GpiCommon.cpp:242  in gpi_load_users                  Loaded entry library: '/usr/lib/x86_64-linux-gnu/libpython3.12.so.1.0'
+#      -.--ns INFO     gpi                                ../gpi/GpiCommon.cpp:233  in gpi_load_users                  Running entry func 'initialize' from loaded library '/home/per/.platformio/penv/lib/python3.12/site-packages/cocotb/simulator.cpython-312-x86_64-linux-gnu.so'
+#      -.--ns INFO     pygpi                              ..ib/pygpi/embed.cpp:114  in initialize                      Using Python 3.12.12 interpreter at /home/per/.platformio/penv/bin/python
+#      -.--ns INFO     gpi                                ../gpi/GpiCommon.cpp:74   in gpi_print_registered_impl       GPI: FLI support registered
+#      0.00ns INFO     cocotb.initialize                  Seeding Python random module with 1792873975
+#      0.00ns WARNING  gpi                                FLI: Other iterator types not implemented yet
+#      0.00ns WARNING  gpi                                FLI: Other iterator types not implemented yet
+#      0.00ns INFO     cocotb.initialize                  Initialized cocotb v2.1.0 from /home/per/.platformio/penv/lib/python3.12/site-packages/cocotb
+#      0.00ns INFO     cocotb.initialize                  Running on ModelSim for Questa Altera Starter FPGA Edition-64 version 2025.1 2025.05
+#      0.00ns INFO     cocotb.regression                  Running tests
+#      0.00ns INFO     cocotb.regression                  running counter_tests.test_hello_world (1/8)
+#      0.00ns INFO     test                               Hello, World!
+#      0.00ns INFO     cocotb.regression                  counter_tests.test_hello_world passed
+#      0.00ns INFO     cocotb.regression                  running counter_tests.test_accessing (2/8)
+# run -all
+#      0.00ns INFO     cocotb.regression                  counter_tests.test_accessing passed
+#      0.00ns INFO     cocotb.regression                  running counter_tests.test_getting_values (3/8)
+#      0.00ns INFO     test                               Current clk value is Logic('U')
+#      0.00ns INFO     test                               Current din value is LogicArray('UUUUUUUU', Range(7, 'downto', 0))
+#      0.00ns INFO     cocotb.regression                  counter_tests.test_getting_values passed
+#      0.00ns INFO     cocotb.regression                  running counter_tests.test_waiting (4/8)
+#      1.00ns INFO     test                               Current clk value is Logic('1')
+#      1.00ns INFO     test                               Current din value is LogicArray('01111100', Range(7, 'downto', 0))
+#      1.00ns INFO     cocotb.regression                  counter_tests.test_waiting passed
+#      1.00ns INFO     cocotb.regression                  running counter_tests.test_clock (5/8)
+#     41.00ns INFO     cocotb.regression                  counter_tests.test_clock passed
+#     41.00ns INFO     cocotb.regression                  running counter_tests.test_clock_concurrent (6/8)
+#    241.00ns INFO     cocotb.regression                  counter_tests.test_clock_concurrent passed
+#    241.00ns INFO     cocotb.regression                  running counter_tests.test_edge_trigger (7/8)
+#    241.01ns WARNING  cocotb.regression                  counter_tests.test_edge_trigger failed
+#                                                         Traceback (most recent call last):
+#                                                           File "/home/per/Desktop/projects/cocotb/counter_tests.py", line 101, in test_edge_trigger
+#                                                             await reset(dut)
+#                                                           File "/home/per/Desktop/projects/cocotb/counter_tests.py", line 84, in reset
+#                                                             dut.ena.value = 0
+#                                                             ^^^^^^^
+#                                                           File "/home/per/.platformio/penv/lib/python3.12/site-packages/cocotb/handle.py", line 461, in __getattr__
+#                                                             raise AttributeError(f"{self._path} contains no child object named {name}")
+#                                                         AttributeError: counter contains no child object named ena
+#    241.01ns INFO     cocotb.regression                  running counter_tests.test_self_checking (8/8)
+#    241.01ns WARNING  cocotb.regression                  counter_tests.test_self_checking failed
+#                                                         Traceback (most recent call last):
+#                                                           File "/home/per/Desktop/projects/cocotb/counter_tests.py", line 123, in test_self_checking
+#                                                             await reset(dut)
+#                                                           File "/home/per/Desktop/projects/cocotb/counter_tests.py", line 84, in reset
+#                                                             dut.ena.value = 0
+#                                                             ^^^^^^^
+#                                                           File "/home/per/.platformio/penv/lib/python3.12/site-packages/cocotb/handle.py", line 461, in __getattr__
+#                                                             raise AttributeError(f"{self._path} contains no child object named {name}")
+#                                                         AttributeError: counter contains no child object named ena
+#    241.01ns INFO     cocotb.regression                  *********************************************************************************************
+#                                                         ** TEST                                 STATUS  SIM TIME (ns)  REAL TIME (s)  RATIO (ns/s) **
+#                                                         *********************************************************************************************
+#                                                         ** counter_tests.test_hello_world        PASS           0.00           0.00          0.00  **
+#                                                         ** counter_tests.test_accessing          PASS           0.00           0.00          0.00  **
+#                                                         ** counter_tests.test_getting_values     PASS           0.00           0.00          0.00  **
+#                                                         ** counter_tests.test_waiting            PASS           1.00           0.00       7719.27  **
+#                                                         ** counter_tests.test_clock              PASS          40.00           0.00      76013.98  **
+#                                                         ** counter_tests.test_clock_concurrent   PASS         200.00           0.00      86009.52  **
+#                                                         ** counter_tests.test_edge_trigger       FAIL           0.00           0.00          0.00  **
+#                                                         ** counter_tests.test_self_checking      FAIL           0.00           0.00          0.00  **
+#                                                         *********************************************************************************************
+#                                                         ** TESTS=8 PASS=6 FAIL=2 SKIP=0                       241.01           0.08       2854.11  **
+#                                                         *********************************************************************************************
+# Simulation halt requested by foreign interface.
+#  quit -f
+# End time: 22:32:55 on Oct 24,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+End time: 22:32:56 on Oct 24,2026, Elapsed time: 0:00:01
+*** Summary *********************************************
+    qrun: Errors:   0, Warnings:   0
+    vsim: Errors:   0, Warnings:   0
+  Totals: Errors:   0, Warnings:   0
